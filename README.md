@@ -1,4 +1,4 @@
-# sql_resources
+# data_resources
 
 ### WIP: here you will find everything I am using to master SQL as well many references that I find usefull or that I would take in consideration for future studies.
 
