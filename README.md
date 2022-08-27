@@ -24,12 +24,12 @@ https://github.com/DataWithDanny/sql-masterclass
 
 #### TOPICS OF INTEREST
 
-Relational Algebra 
-Predicate Logic
-Predictive Model
-p-value
-NLP
-Random Forest
-Hypothesis testing
-Regression analysis
-Probability
+Relational Algebra </br>
+Predicate Logic </br>
+Predictive Model </br>
+p-value </br>
+NLP </br>
+Random Forest </br>
+Hypothesis testing </br>
+Regression analysis </br>
+Probability </br>
