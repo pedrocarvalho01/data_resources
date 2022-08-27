@@ -4,6 +4,8 @@
 
 ### WIP: here you will also find all interesting topics I plan on taking for current, paralel, or future studies.
 
+#### REFERENCES
+
 https://sqlbolt.com/
 
 https://sqlzoo.net/wiki/SQL_Tutorial
@@ -20,3 +22,14 @@ https://quip.com/2gwZArKuWk7W
 
 https://github.com/DataWithDanny/sql-masterclass
 
+#### TOPICS OF INTEREST
+
+Relational Algebra 
+Predicate Logic
+Predictive Model
+p-value
+NLP
+Random Forest
+Hypothesis testing
+Regression analysis
+Probability
