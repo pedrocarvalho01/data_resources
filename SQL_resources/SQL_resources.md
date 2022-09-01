@@ -1,7 +1,4 @@
-## SQL Foundations
+### how to check if there are duplicates on some level?
 
-select * from table_name
+### how to check the same table for different levels of rows?
 
-## SQL Basics
-## SQL Intermediate
-## SQL Advanced
