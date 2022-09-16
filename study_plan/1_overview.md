@@ -25,11 +25,12 @@ The way I will do in order to learn all that is by:<br>
   11) Anomaly detection SQL
   12) Experiment analysis SQL
   13) Data-driven decision SQL
-  14) Exploratory data analysis: create a notebook showing common uses for exploratory data analysis.
-  15) Descriptive analytics
-  16) Diagnostic analytics
-  17) Predictive analytics 
-  18) Prescriptive analytics
+  14) Exploratory data analysis  SQL: create a notebook showing common uses for exploratory data analysis.
+  15) Descriptive analytics SQL
+  16) Diagnostic analytics SQL
+  17) Predictive analytics SQL
+  18) Prescriptive analytics SQL
+  19) A/B testing SQL
 
 
 ### Books:
