@@ -30,7 +30,6 @@ The way I will do in order to learn all that is by:<br>
   16) Diagnostic analytics
   17) Predictive analytics 
   18) Prescriptive analytics
-  19) 
 
 
 ### Books:
