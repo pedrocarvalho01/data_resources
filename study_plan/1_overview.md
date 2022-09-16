@@ -40,4 +40,14 @@ The way I will do in order to learn all that is by:<br>
   1) https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
 
 ### References: 
-What Is Exploratory Data Analysis? https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/
+  1) What Is Exploratory Data Analysis? https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/
+  2) 8 SQL Techniques to Perform Data Analysis for Analytics and Data Science https://www.analyticsvidhya.com/blog/2020/07/8-sql-techniques-data-analysis-analytics-data-science/
+  3) Investigating a Drop in User Engagement https://mode.com/sql-tutorial/a-drop-in-user-engagement
+  4) What is Data Analysis? Methods, Process and Types Explained https://www.simplilearn.com/data-analysis-methods-process-types-article
+  5) What Is Data Collection: Methods, Types, Tools, and Techniques https://www.simplilearn.com/what-is-data-collection-article
+  6) What is Statistical Analysis? Types, Methods and Examples https://www.simplilearn.com/what-is-statistical-analysis-article
+  7) The Ultimate Guide to Qualitative vs. Quantitative Research https://www.simplilearn.com/tutorials/data-analytics-tutorial/qualitative-vs-quantitative-research
+  8) What is Hypothesis Testing in Statistics? Types and Examples https://www.simplilearn.com/tutorials/statistics-tutorial/hypothesis-testing-in-statistics
+  9) 5 Advanced SQL Constructions Every Data Analyst Should Learn https://learnsql.com/blog/advanced-sql-constructions-for-data-analyst/
+  10) 31 SQL Interview Questions for Data Analysts [Updated for 2022] https://www.interviewquery.com/p/sql-questions-data-analyst
+
