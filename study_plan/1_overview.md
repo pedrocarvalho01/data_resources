@@ -31,6 +31,7 @@ The way I will do in order to learn all that is by:<br>
   17) Predictive analytics SQL
   18) Prescriptive analytics SQL
   19) A/B testing SQL
+  20) Hypothesis Testing SQL
 
 
 ### Books:
