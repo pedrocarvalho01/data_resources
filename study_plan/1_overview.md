@@ -3,7 +3,6 @@
 ### My goal:
 My objective here is to become the best data analyst one can be. <br>
 <br>
-
 ### How to achieve that goal:<br>
 In order to achieve this I understand that I still need to learn many different things. <br>
 The way I will do in order to learn all that is by:<br>
@@ -40,6 +39,5 @@ The way I will do in order to learn all that is by:<br>
  ### Datasets:
   1) https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
 
-
-### References:
+### References: 
 What Is Exploratory Data Analysis? https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/
