@@ -16,25 +16,31 @@ The way I will do in order to learn all that is by:<br>
 
 ### Topics that I need to tackle to achieve my goal, in order from the most important to less important:
   1) Kaggle notebooks: this is important as I will be using kaggles notebooks as my projects notebooks. This is a important part of my presentation skills to show the world what I am learning and how I am doing it.
-  2) Gather data: using APIs and other different data sources
-  3) Model data and create a complex dataset for analysis: this dataset is important as it will be used on most of our demonstrations and analysis.
-  5) Data Visualization: create a notebook with some major key visualizations, why to use them, and how to use them.
-  6) SQL practice: create a notebook to share common SQL practices, like self joins, joins, cross products, union, except, etc.
-  7) Data Manipulation, data cleansing: create a notebook showing common practices on how to clean data.
-  8) Preparing data for analysis: create a notebook taking chapter 2 of SQL book* (see notes)
-  9) Time series analysis SQL
-  10) Cohort analysis SQL
-  11) Text analysis SQL
-  12) Anomaly detection SQL
-  13) Experiment analysis SQL
-  14) Data-driven decision SQL
-  15) Exploratory data analysis  SQL: create a notebook showing common uses for exploratory data analysis.
-  16) Descriptive analytics SQL
-  17) Diagnostic analytics SQL
-  18) Predictive analytics SQL
-  19) Prescriptive analytics SQL
-  20) A/B testing SQL
-  21) Hypothesis Testing SQL
+  2) Functional analysis, requirement gathering.
+  3) Gather data: using APIs and other different data sources
+  4) Data Manipulation, data cleansing: create a notebook showing common practices on how to clean data.
+  6) Data warehouse vs Data Lake
+  7) Understand Data Models, the dimensional model (scd2, facts, dim, etc), how to read an Entity Relationship model, 3NF.
+  8) Model data and create a complex dataset for analysis: this dataset is important as it will be used on most of our demonstrations and analysis.
+  9) ETL, ELT, keeping your dataset up to date.
+  10) Cubes
+  11) Data Visualization: create a notebook with some major key visualizations, why to use them, and how to use them.
+  12) SQL practice: create a notebook to share common SQL practices, like self joins, joins, cross products, union, except, etc.
+  13) Preparing data for analysis: create a notebook taking chapter 2 of SQL book* (see notes)
+  14) Time series analysis SQL
+  15) Cohort analysis SQL
+  16) Text analysis SQL
+  17) Anomaly detection SQL
+  18) Experiment analysis SQL
+  19) Data-driven decision SQL
+  20) Exploratory data analysis  SQL: create a notebook showing common uses for exploratory data analysis.
+  21) Descriptive analytics SQL
+  22) Diagnostic analytics SQL
+  23) Predictive analytics SQL
+  24) Prescriptive analytics SQL
+  25) A/B testing SQL
+  26) Hypothesis Testing SQL
+  27) UAT testing
 <br></br>
 
 ### Books:
