@@ -74,4 +74,18 @@ Probability </br>
 logistic regression </br>
 supervised vs unsupervised machine learning </br>
 decision trees <br>
-reproducibility
+reproducibility <br>
+
+## REFERENCE: Database Systems The Complete Book (Hector Garcia-Molina, Jeffrey D. Ullman etc.)
+
+![image](https://user-images.githubusercontent.com/42393725/191621685-3700fa1c-64b6-4b6b-8552-7476979d808f.png)
+
+Algorithms </br>
+Discrete Math </br>
+Algebraic expressions and laws </br>
+Logic </br>
+Basic Data Structures </br>
+Object Oriented Programming concepts </br>
+
+
+
